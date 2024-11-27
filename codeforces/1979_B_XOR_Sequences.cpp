@@ -1,3 +1,7 @@
+/*
+	Problem Link: https://codeforces.com/problemset/problem/1979/B
+*/
+
 #include <bits/stdc++.h>
 
 typedef long long ll;
